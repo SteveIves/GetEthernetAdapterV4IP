@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32505.173
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetEthernetAdapterV4IP", "GetEthernetAdapterV4IP\GetEthernetAdapterV4IP.csproj", "{9067437E-57A8-43F9-93F9-5720E5331339}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9067437E-57A8-43F9-93F9-5720E5331339}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9067437E-57A8-43F9-93F9-5720E5331339}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9067437E-57A8-43F9-93F9-5720E5331339}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9067437E-57A8-43F9-93F9-5720E5331339}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {297B530E-09A2-48D1-8534-6440C4AB792D}
+	EndGlobalSection
+EndGlobal
